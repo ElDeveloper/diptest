@@ -1,7 +1,7 @@
 diptest
 ======
 
-A Python/C implementation of Hartigan & Hartigan's dip test for unimodality.
+A Python/C implementation of Hartigan & adsfsadafsdfsadfsad's dip test for unimodality.
 
 The dip test measures multimodality in a sample by the maximum difference, over
 all sample points, between the empirical distribution function, and the
